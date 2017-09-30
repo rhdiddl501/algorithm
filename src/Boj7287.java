@@ -13,25 +13,16 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+package PACKAGE_NAME;
 /**
  * Created by jihye on 2017-09-30
- * Site       : https://www.acmicpc.net/problem/1001
+ * Site       : https://www.acmicpc.net/problem/7287
  */
 
 import java.util.*;
 
-public class Boj1001 {
+public class Boj7287 {
     public static void main(String[] args) {
-            Scanner sc = new Scanner(System.in);
-
-            int a=0;
-            int b=0;
-
-            a = sc.nextInt();
-            b = sc.nextInt();
-
-            System.out.println(a-b);
-
-        }
+    }
 }
 
