@@ -13,7 +13,6 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package PACKAGE_NAME;
 /**
  * Created by jihye on 2017-09-30
  * Site       : https://www.acmicpc.net/problem/7287
@@ -23,6 +22,11 @@ import java.util.*;
 
 public class Boj7287 {
     public static void main(String[] args) {
+        System.out.println("|\\_/|");
+        System.out.println("|q p|   /}");
+        System.out.println("( 0 )\"\"\"\\");
+        System.out.println("|\"^\"`    |");
+        System.out.println("||_/=\\\\__|");
     }
 }
 
